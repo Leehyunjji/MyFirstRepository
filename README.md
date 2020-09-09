@@ -7,5 +7,5 @@
 Hello My name is LeeHYunJi
 
 ### 과제
-<img width=""height="" scr="./jpg/19273017.jpg"> </img>
+<img width=""height="" scr="./png/19273017.png"> </img>
 
