@@ -2,4 +2,4 @@
 
 ## 작은제목
 
-<img width="" height="" scr="./png/19273017.png"> </img>
+<img width="" height="" src="./Png/dog.png"></img>
