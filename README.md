@@ -1,5 +1,8 @@
-# MyFirstRepository
+# 19273017 이현지
 
-## 작은제목
+## 1주차 과제
 
+### 2주차 과제
 <img width="" height="" src="./png/19273017.png"></img>
+
+#### 3주차 과제
