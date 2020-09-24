@@ -11,3 +11,7 @@
 
 ### 4주차 과제
 <img width="" height="" src="./png/MOGA1.JPG"></img>
+<img width="" height="" src="./png/MOGA2.JPG"></img>
+<img width="" height="" src="./png/MOGA3.JPG"></img>
+<img width="" height="" src="./png/MOGA4.JPG"></img>
+<img width="" height="" src="./png/MOGA5.JPG"></img>
